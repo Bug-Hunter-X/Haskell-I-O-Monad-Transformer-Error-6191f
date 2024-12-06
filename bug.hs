@@ -1,0 +1,1 @@
+This Haskell code attempts to perform I/O operations within a monadic context without using the appropriate monad transformer. This often results in type errors indicating that the IO actions cannot be sequenced properly within the monad.
